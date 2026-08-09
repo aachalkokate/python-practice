@@ -95,6 +95,12 @@ This repository contains my daily Python practice programs. I am learning Python
 - Repeated Number Pyramid
 - Repeated Reverse Number Pyramid
 - Number Pyramid
+- ### Day 19
+- Star Right Triangle
+- Reverse Star Triangle
+- Spaces Star Triangle
+- Reverse Spaces Star Triangle
+- Star Pyramid
 ## Goal
 - Learn Python fundamentals
 - Improve problem-solving skills
@@ -120,4 +126,5 @@ This repository contains my daily Python practice programs. I am learning Python
 ✅ Day 16 Completed
 ✅ Day 17 Completed
 ✅ Day 18 Completed
+✅ Day 19 Completed
 Thank you for visiting my repository! 🚀
