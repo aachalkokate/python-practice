@@ -101,6 +101,12 @@ This repository contains my daily Python practice programs. I am learning Python
 - Spaces Star Triangle
 - Reverse Spaces Star Triangle
 - Star Pyramid
+- ### Day 20
+- Star Diamond
+- Hollow Square
+- Hollow Pyramid
+- Hollow Reverse Pyramid
+- Hollow Diamond
 ## Goal
 - Learn Python fundamentals
 - Improve problem-solving skills
@@ -127,4 +133,5 @@ This repository contains my daily Python practice programs. I am learning Python
 ✅ Day 17 Completed
 ✅ Day 18 Completed
 ✅ Day 19 Completed
+✅ Day 20 Completed
 Thank you for visiting my repository! 🚀
