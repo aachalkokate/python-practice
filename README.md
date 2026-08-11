@@ -107,6 +107,12 @@ This repository contains my daily Python practice programs. I am learning Python
 - Hollow Pyramid
 - Hollow Reverse Pyramid
 - Hollow Diamond
+- ### Day 21
+- Number Pyramid
+- Reverse Number Pyramid
+- Continuous Number Pattern
+- Floyd's Triangle
+- Number + Star Pattern
 ## Goal
 - Learn Python fundamentals
 - Improve problem-solving skills
@@ -134,4 +140,5 @@ This repository contains my daily Python practice programs. I am learning Python
 ✅ Day 18 Completed
 ✅ Day 19 Completed
 ✅ Day 20 Completed
+✅ Day 21 Completed
 Thank you for visiting my repository! 🚀
