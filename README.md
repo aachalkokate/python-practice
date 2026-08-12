@@ -113,6 +113,13 @@ This repository contains my daily Python practice programs. I am learning Python
 - Continuous Number Pattern
 - Floyd's Triangle
 - Number + Star Pattern
+- ### Day 22
+- Alphabet Pyramid
+- Reverse Alphabet Pattern
+- 0-1 Binary Pattern
+- Hollow Number Diamond
+- Alphabet + Star Pattern
+- 
 ## Goal
 - Learn Python fundamentals
 - Improve problem-solving skills
@@ -141,4 +148,5 @@ This repository contains my daily Python practice programs. I am learning Python
 ✅ Day 19 Completed
 ✅ Day 20 Completed
 ✅ Day 21 Completed
+✅ Day 22 Completed
 Thank you for visiting my repository! 🚀
