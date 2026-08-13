@@ -119,6 +119,12 @@ This repository contains my daily Python practice programs. I am learning Python
 - 0-1 Binary Pattern
 - Hollow Number Diamond
 - Alphabet + Star Pattern
+- ### Day 23
+- Sum of Numbers from 1 to N
+- Sum of Even Numbers
+- Sum of Odd Numbers
+- Factorial of a Number
+- Count Digits of a Number
 - 
 ## Goal
 - Learn Python fundamentals
@@ -149,4 +155,5 @@ This repository contains my daily Python practice programs. I am learning Python
 ✅ Day 20 Completed
 ✅ Day 21 Completed
 ✅ Day 22 Completed
+✅ Day 23 Completed
 Thank you for visiting my repository! 🚀
