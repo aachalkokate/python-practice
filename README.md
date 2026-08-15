@@ -125,6 +125,12 @@ This repository contains my daily Python practice programs. I am learning Python
 - Sum of Odd Numbers
 - Factorial of a Number
 - Count Digits of a Number
+- ### Day 24
+- Reverse a Number
+- Palindrome Number
+- Sum of Digits
+- Count Even and Odd Digits
+- Armstrong Number
 - 
 ## Goal
 - Learn Python fundamentals
@@ -156,4 +162,5 @@ This repository contains my daily Python practice programs. I am learning Python
 ✅ Day 21 Completed
 ✅ Day 22 Completed
 ✅ Day 23 Completed
+✅ Day 24 Completed
 Thank you for visiting my repository! 🚀
