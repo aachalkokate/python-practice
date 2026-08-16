@@ -131,6 +131,12 @@ This repository contains my daily Python practice programs. I am learning Python
 - Sum of Digits
 - Count Even and Odd Digits
 - Armstrong Number
+- ### Day 25
+- Find Largest Digit
+- Find Smallest Digit
+- Find Digit Frequency
+- Check Number Anagram
+- Find GCD / HCF
 - 
 ## Goal
 - Learn Python fundamentals
@@ -163,4 +169,5 @@ This repository contains my daily Python practice programs. I am learning Python
 ✅ Day 22 Completed
 ✅ Day 23 Completed
 ✅ Day 24 Completed
+✅ Day 25 Completed
 Thank you for visiting my repository! 🚀
