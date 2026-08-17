@@ -137,6 +137,12 @@ This repository contains my daily Python practice programs. I am learning Python
 - Find Digit Frequency
 - Check Number Anagram
 - Find GCD / HCF
+- ### Day 26
+- LCM of Two Numbers
+- Perfect Number
+- Prime Number
+- Prime Numbers in a Range
+- Fibonacci Series
 - 
 ## Goal
 - Learn Python fundamentals
@@ -170,4 +176,5 @@ This repository contains my daily Python practice programs. I am learning Python
 ✅ Day 23 Completed
 ✅ Day 24 Completed
 ✅ Day 25 Completed
+✅ Day 26 Completed
 Thank you for visiting my repository! 🚀
