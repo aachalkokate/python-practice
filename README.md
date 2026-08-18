@@ -60,83 +60,98 @@ This repository contains my daily Python practice programs. I am learning Python
 - Print Name 5 Times (While Loop)
 - Even Numbers (While Loop)
 - Odd Numbers (While Loop)
+- 
 ### Day 12
 - Number Triangle Pattern
 - Reverse Number Pattern
 - Same Number Pattern
 - Reverse Descending Number Pattern
+- 
 - ### Day 13
 - Square Star Pattern
 - Alphabet Triangle Pattern
 - Reverse Alphabet Pattern
 - Same Alphabet Pattern
+- 
 - ### Day 14
 - Reverse Alphabet Triangle
 - Same Number Square Pattern
 - Number Square Pattern
 - Hollow Square Pattern
+- 
 - ### Day 15
 - Right Aligned Star Pattern
 - Right Aligned Number Pattern
 - Right Aligned Alphabet Pattern
+- 
 - ## Day 16
 - Star Pyramid Pattern
 - Inverted Star Pyramid
 - Diamond Pattern
 - Practiced nested loops and indentation
+- 
 - ### Day 17
 - Hollow Square Pattern
 - Hollow Pyramid Pattern
 - Number Pyramid
 - Alphabet Pyramid
+- 
 - ### Day 18
 - Floyd's Triangle
 - Reverse Floyd's Triangle
 - Repeated Number Pyramid
 - Repeated Reverse Number Pyramid
 - Number Pyramid
+- 
 - ### Day 19
 - Star Right Triangle
 - Reverse Star Triangle
 - Spaces Star Triangle
 - Reverse Spaces Star Triangle
 - Star Pyramid
+- 
 - ### Day 20
 - Star Diamond
 - Hollow Square
 - Hollow Pyramid
 - Hollow Reverse Pyramid
 - Hollow Diamond
+- 
 - ### Day 21
 - Number Pyramid
 - Reverse Number Pyramid
 - Continuous Number Pattern
 - Floyd's Triangle
 - Number + Star Pattern
+- 
 - ### Day 22
 - Alphabet Pyramid
 - Reverse Alphabet Pattern
 - 0-1 Binary Pattern
 - Hollow Number Diamond
 - Alphabet + Star Pattern
+- 
 - ### Day 23
 - Sum of Numbers from 1 to N
 - Sum of Even Numbers
 - Sum of Odd Numbers
 - Factorial of a Number
 - Count Digits of a Number
+- 
 - ### Day 24
 - Reverse a Number
 - Palindrome Number
 - Sum of Digits
 - Count Even and Odd Digits
 - Armstrong Number
+- 
 - ### Day 25
 - Find Largest Digit
 - Find Smallest Digit
 - Find Digit Frequency
 - Check Number Anagram
 - Find GCD / HCF
+- 
 - ### Day 26
 - LCM of Two Numbers
 - Perfect Number
