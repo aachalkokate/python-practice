@@ -158,6 +158,15 @@ This repository contains my daily Python practice programs. I am learning Python
 - Prime Number
 - Prime Numbers in a Range
 - Fibonacci Series
+
+- ### Day 27
+
+* Factor of Number
+* Sum of Range
+* Reverse Range
+* Strong Number
+* Number Guessing Game
+
 - 
 ## Goal
 - Learn Python fundamentals
@@ -192,4 +201,5 @@ This repository contains my daily Python practice programs. I am learning Python
 ✅ Day 24 Completed
 ✅ Day 25 Completed
 ✅ Day 26 Completed
+✅ Day 27 Completed
 Thank you for visiting my repository! 🚀
