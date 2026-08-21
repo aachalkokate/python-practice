@@ -161,11 +161,19 @@ This repository contains my daily Python practice programs. I am learning Python
 
 - ### Day 27
 
-* Factor of Number
-* Sum of Range
-* Reverse Range
-* Strong Number
-* Number Guessing Game
+- Factor of Number
+- Sum of Range
+- Reverse Range
+- Strong Number
+- Number Guessing Game
+  
+- ### Day 28
+
+- Sum of Even Numbers in Range
+- Sum of Odd Numbers in Range
+- Count Even and Odd Numbers in Range
+- Check Automorphic Number
+- Check Neon Number
 
 - 
 ## Goal
