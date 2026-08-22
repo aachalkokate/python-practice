@@ -175,6 +175,17 @@ This repository contains my daily Python practice programs. I am learning Python
 - Check Automorphic Number
 - Check Neon Number
 
+- - ### Day 29
+- Largest Digit
+- Smallest Digit
+- Count Even Digits
+- Count Odd Digits
+- Sum of Even Digits
+- Sum of Odd Digits
+- Spy Number
+- Duck Number
+- Happy Number
+
 - 
 ## Goal
 - Learn Python fundamentals
@@ -211,4 +222,5 @@ This repository contains my daily Python practice programs. I am learning Python
 ✅ Day 26 Completed
 ✅ Day 27 Completed
 ✅ Day 28 Completed
+✅ Day 29 Completed
 Thank you for visiting my repository! 🚀
